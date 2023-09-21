@@ -12,7 +12,7 @@
 
 💕 如果更多人喜欢我写的憨憨小项目一定很令人开心  
 
-<a href="https://wiki.xbaimiao.com/" target="_blank">
+<a href="https://wiki.originmc.cn/" target="_blank">
     <img src=https://img.shields.io/badge/Wiki-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white
         alt=E-Mail style="margin-bottom: 5px;" />
 </a>
