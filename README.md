@@ -1,8 +1,8 @@
 :sunglasses:HI,这里是Yeqi. 闲着就喜欢写代码  
 
-🌱 目前会用的语言: Java, C/C++, Python (比较喜欢使用Java)  
+🌱 目前会用的语言: Java, C/C++, Python
 
-🔭 正在学习: 机器学习, 深度学习  
+🔭 正在学习: NLP自然语言处理  
 
 👯 希望和很多善良的人交朋友  
 
