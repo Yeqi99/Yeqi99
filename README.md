@@ -4,7 +4,7 @@
 
 🌱 目前会的技术: 机器学习,深度学习
 
-🔭 正在学习: LLM
+🔭 正在学习: LLM,CV
 
 👯 希望和很多善良的人交朋友  
 
@@ -12,7 +12,7 @@
 
 🤔 要是有人能教我写代码那就更好了  
 
-💕 如果更多人喜欢我写的憨憨小项目一定很令人开心  
+💕 如果更多人喜欢我写的小项目一定很令人开心  
 
 <a href="https://wiki.originmc.cn/" target="_blank">
     <img src=https://img.shields.io/badge/Wiki-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white
