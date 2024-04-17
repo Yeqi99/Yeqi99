@@ -2,17 +2,11 @@
 
 🌱 目前会用的语言: Java, C/C++, Python
 
-🌱 目前会的技术: 机器学习,深度学习,LLM微调
+🌱 目前会的技术: 机器学习,深度学习
 
-🔭 正在学习: CV
+🔭 正在学习: 强化学习(DPO PPO)
 
 👯 希望和很多善良的人交朋友  
-
-💬 或许我们可以聊些有趣但没啥用的奇妙小程序  
-
-🤔 要是有人能教我写代码那就更好了  
-
-💕 如果更多人喜欢我写的项目一定很令人开心  
 
 <a href="https://wiki.originmc.cn/" target="_blank">
     <img src=https://img.shields.io/badge/Wiki-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white
