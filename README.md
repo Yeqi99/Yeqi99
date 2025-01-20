@@ -1,12 +1,4 @@
-:sunglasses:HI,这里是Yeqi. 闲着就喜欢写代码  
-
-🌱 目前会用的语言: Java, C/C++, Python
-
-🌱 目前会的技术: 机器学习,深度学习
-
-🔭 正在学习: 强化学习(DPO PPO)
-
-👯 希望和很多善良的人交朋友  
+:sunglasses:HI,这里是Yeqi. 
 
 <a href="https://wiki.originmc.cn/" target="_blank">
     <img src=https://img.shields.io/badge/Wiki-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white
