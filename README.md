@@ -1,11 +1,5 @@
 这里是Yeqi.
 
-<a href="https://wiki.originmc.cn/" target="_blank">
-    <img src=https://img.shields.io/badge/Wiki-%23946CE6.svg?style=for-the-badge&logo=sailfishos&logoColor=white
-        alt=E-Mail style="margin-bottom: 5px;" />
-</a>
-
-
 <table>
     <tr>
         <td valign="top" width="50%">
